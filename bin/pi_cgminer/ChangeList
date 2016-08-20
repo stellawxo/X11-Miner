@@ -1,0 +1,24 @@
+2016-04-28
+1. Add chip status show.( [ 111111 111111 111111 110111 111111 111111 111010 011111 111111 111101 ] if show 1 menas chip work )
+
+2016-05-04
+1. Add serial read buffer.
+2. Add option --drl-asic-status.
+
+2016-05-09
+1. Fix: miner slow when diff is very high.
+2. Fix: can not miner one more devices.
+3. Fix: calc local hashrate not correct.
+4. Update --dr1-fan 
+   --dr1-fan          Set fanspeed percentage for DR1, single value or range (default: LV3 )(LV1/LV2/LV3)
+   
+2016-05-15
+1. Remove --drl-asic-status
+
+2016-06-02
+1. Add miniusb --du1 option for usb miner.
+
+2016-06-07 version 1.0.7
+1. Add delay for config miner.
+2. Fix du1 show incorrect in miner console.
+3. Change miner version to 1.0.7
