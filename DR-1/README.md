@@ -17,7 +17,7 @@ This is the official documentation for the PinIdea ASIC X11 Miner DR-1.
 - [Latest Release](https://github.com/PinIdea/ASIC-X11-Miner/releases)
     - Latest release of the mining software for the DR-1
 - [Firmware]
-    - <font color="red"> output_file.jic  need download quartus and buy altera usb blaster to flash</font>
+    - output_file.jic  need download quartus and buy altera usb blaster to flash\<h2\>
 
 ## Notes for central mining pool users
 
