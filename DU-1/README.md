@@ -3,7 +3,7 @@ du1.hex need download flip to flash(http://www.atmel.com/tools/FLIP.aspx)
 
 1. need boot to bootload
     download serial debug app, open com?, send 30010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-    du1 will switch to bootload , and device manager will show atmel
+    <br>du1 will switch to bootload , and device manager will show atmel
 2. flip load du1.hex and flash
 3. Re insert usb
     
