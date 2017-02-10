@@ -5,6 +5,7 @@ Documentation, Instructions, Tutorials and Binaries for ASIC X11 Miners
 
 - [DR-1](DR-1/README.md) : ASIC X11 Miner (Hashrate 500 HM/s)
 - [DR-2](DR-2/README.md) : ASIC X11 Miner (Hashrate 450 HM/s)
+- [DR-3](DR-2/README.md) : ASIC X11 Miner (Hashrate 600 HM/s)
 - [DU-1](DU-1/README.md) : ASIC USB X11 Miner (Hashrate 8.5 HM/s)
 
 ## How do we make release?
